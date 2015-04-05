@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^fakebsod\.com$ [NC]
+RewriteRule ^(.*)$ http://fakebsod.com/$1 [R=301,L]
+
+ErrorDocument 404 /404.php
