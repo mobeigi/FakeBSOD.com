@@ -32,8 +32,8 @@ Prank your friends, family and coworkers into beleiving their workstation has cr
 <center>
 <style type="text/css">
 	dl.image_map {display:block; width:700px; height:250px; background:url(/images/instructions.png); position:relative; margin:2px auto 2px auto;}
-	a.LINK0 {left:18px; top:7px; background:transparent;}
-	a.LINK0 {display:block; width:190px; height:0; padding-top:232px; overflow:hidden; position:absolute;}
+	a.LINK0 {left:235px; top:7px; background:transparent;}
+	a.LINK0 {display:block; width:220px; height:0; padding-top:232px; overflow:hidden; position:absolute;}
 	a.LINK0:hover  {background:transparent; border:1px dashed white; color:black;}
 	a.BLINK {left:698px; top:248px; background:transparent;}
 	a.BLINK {display:block; width:202px; height:17px; overflow:hidden; position:absolute; font-size:0px;}
