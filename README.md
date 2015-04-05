@@ -1,2 +1,13 @@
-# FakeBSOD.com
-Website for FakeBSOD.com
+FakeBSOD.com
+=========
+A website that can be used to prank your friends, family and coworkers into beleiving their workstation has crashed.
+
+Images
+----
+![FakeBSOD Homepage](/../screenshots/screenshots/homepage.png?raw=true "FakeBSOD Homepage")
+
+![FakeBSOD Generic BSOD Page](/../screenshots/screenshots/generic.png?raw=true "FakeBSOD Generic BSOD Page")
+
+License
+----
+ GNU GENERAL PUBLIC LICENSE V3
