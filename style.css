@@ -22,6 +22,11 @@ blink {
 
 p {
     margin:30px 100px;
+    text-align:center;
+}
+
+p.bsodBlock {
+    margin:30px 100px;
     text-align:left;
 }
 

@@ -26,17 +26,17 @@ function setblinkFont()
 <body onload="blinkFont()">
 <b>
 <span class="neg">Windows</span>
-<p>
+<p class="bsodBlock">
 A problem has been detected and windows has been shut down to prevent damage to your computer.
 </p>
-<p>
+<p class="bsodBlock">
 *** STOP: 0xFFFFFFFF (0xFFFFFFFF, 0xUUUUUUUU, 0xUUUUUUUU, 0xUUUUUUUU).<br /><br />
 
 * Press any key to terminate the current application.<br />
 * Press CTRL+ALT+DELETE again to restart your computer. You will lose any unsaved information in all applications.<br />
 
 </p>
-<center>Press any key to continue <span id="blink">_</span></center>
+<p class="bsodBlock" style="text-align:center">Press any key to continue <span id="blink">_</span></p>
 </b>
 </body>
 </html>
