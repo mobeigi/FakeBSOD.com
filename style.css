@@ -22,12 +22,11 @@ blink {
 
 p {
     margin:30px 100px;
-    text-align:center;
+    text-align:left;
 }
 
-p.bsodBlock {
-    margin:30px 100px;
-    text-align:left;
+p.center {
+    text-align:center;
 }
 
 a,a:hover {

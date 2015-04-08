@@ -51,7 +51,7 @@ function toggleFullScreen(elem) {
 <b>
 <h1>Welcome to FakeBSOD.com</h1>
 <span class="neg">About</span>
-<p>
+<p class="center">
 Prank your friends, family and coworkers into beleiving their workstation has crashed!
 <br/>Simply follow the instructions below!<br />
 <center>
