@@ -1,7 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 
-body {
+/****** Generic *******/
+body#home {
     background:#0000aa;
     color:#ffffff;
     font-family:courier;
@@ -9,6 +10,16 @@ body {
     text-align:center;
     margin:100px;
 }
+
+body#generic {
+    background:#0000aa;
+    color:#ffffff;
+    font-family:courier;
+    font-size:12pt;
+    text-align:center;
+    margin:100px;
+}
+
 blink {
     color:yellow;
 }
@@ -33,4 +44,31 @@ a,a:hover {
     color:inherit;
     font:inherit;
 	text-decoration: none;
+}
+
+/****** Windows 8 *******/
+body#win8 {
+  background:#55caff;
+  color:#ffffff;
+  font-family:Segoe UI;
+  font-size:12pt;
+  text-align:center;
+  margin: 100px 300px 100px 300px;
+}
+
+#sadface {
+  display: block;
+  width: 100%;
+  height:219px;
+  margin:30px 100px;
+  background-image: url('/images/sadface.png');
+  background-repeat: no-repeat;
+}
+p#win8topblock {
+  font-size: 35px;
+  margin-bottom: 0px;
+}
+
+p#win8errorblock {
+  margin-top: 15px;
 }

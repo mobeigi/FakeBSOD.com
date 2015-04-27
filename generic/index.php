@@ -23,7 +23,7 @@ function setblinkFont()
 }
 </script>
 </head>
-<body onload="blinkFont()">
+<body id="generic" onload="blinkFont()">
 <b>
 <span class="neg">Windows</span>
 <p>

@@ -22,7 +22,7 @@ function setblinkFont()
 }
 </script>
 </head>
-<body>
+<body id="home">
 <b>
 <h1>Welcome to FakeBSOD.com</h1>
 <span class="neg">About</span>
@@ -43,6 +43,9 @@ Prank your friends, family and coworkers into beleiving their workstation has cr
 	<dd><a class="LINK0" title="Generic BSOD Page" href="http://www.fakebsod.com/generic/"></a></dd>
 </dl>
 </center>
+<br />
+<center><a href="/generic">Generic BSOD</a> | <a href="/windows8">Windows 8 BSOD</a></center>
+<br />
 <br /><center>Created by <a href="http://mohammadg.com">MohammadG</a>.</center>
 </p>
 </b>
