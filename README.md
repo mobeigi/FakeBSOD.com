@@ -10,6 +10,9 @@ Images
 <h4>Generic BSOD Page:</h4>
 ![FakeBSOD Generic BSOD Page](/../screenshots/screenshots/generic.png?raw=true "FakeBSOD Generic BSOD Page")
 
+<h4>Windows 8 BSOD Page:</h4>
+![FakeBSOD Windows 8 BSOD Page](/../screenshots/screenshots/windows8.png?raw=true "FakeBSOD Windows 8 BSOD Page")
+
 License
 ----
  GNU GENERAL PUBLIC LICENSE V3
