@@ -40,13 +40,14 @@ Prank your friends, family and coworkers into beleiving their workstation has cr
 	a.BLINK:hover  {background:black; border:1px dashed white; color:white; font-size:9px;}
 </style>
 <dl class="image_map">
-	<dd><a class="LINK0" title="Generic BSOD Page" href="http://www.fakebsod.com/generic/"></a></dd>
+	<dd><a class="LINK0" title="Generic BSOD Page" href="/generic"></a></dd>
 </dl>
 </center>
 <br />
-<center><a href="/generic">Generic BSOD (XP, Win7)</a> | <a href="/windows8-10">Windows 8/10 BSOD</a></center>
+<center><a href="/generic">Generic BSOD (XP, Win7)</a> | <a href="/windows-8-and-10">Windows 8/10 BSOD</a></center>
 <br />
-<br /><center>Created by <a href="https://mohammadg.com" title="More posts by Mohammad Ghasembeigi">Mohammad Ghasembeigi</a>.</center>
+<br />
+<?php include 'footer.php'; ?>
 </p>
 </b>
 </body>
