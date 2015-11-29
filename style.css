@@ -2,7 +2,7 @@
 /* CSS Document */
 
 /****** Generic *******/
-body#home {
+body#home, body#error404{
     background:#0000aa;
     color:#ffffff;
     font-family:courier;
