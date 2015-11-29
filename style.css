@@ -27,8 +27,11 @@ blink {
 .neg {
     background:#fff;
     color:#0000aa;
-    padding:2px 8px;
     font-weight:bold;
+}
+
+span.neg{
+    padding:2px 8px;
 }
 
 p {

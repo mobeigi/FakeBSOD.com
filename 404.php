@@ -13,7 +13,7 @@
 <span class="neg">404 Error</span>
 <p>
 Sorry the directory or file you were looking for was not found.
-<br/>To return to the homepage, please <a href="/">click here</a>.<br /><br />
+<br/>To return to the homepage, please <a class="neg" href="/">click here</a>.<br /><br />
 <?php include 'footer.php'; ?>
 </p>
 </b>
