@@ -44,9 +44,9 @@ Prank your friends, family and coworkers into beleiving their workstation has cr
 </dl>
 </center>
 <br />
-<center><a href="/generic">Generic BSOD</a> | <a href="/windows8">Windows 8 BSOD</a></center>
+<center><a href="/generic">Generic BSOD (XP, Win7)</a> | <a href="/windows8-10">Windows 8/10 BSOD</a></center>
 <br />
-<br /><center>Created by <a href="http://mohammadg.com">MohammadG</a>.</center>
+<br /><center>Created by <a href="https://mohammadg.com" title="More posts by Mohammad Ghasembeigi">Mohammad Ghasembeigi</a>.</center>
 </p>
 </b>
 </body>
