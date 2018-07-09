@@ -21,6 +21,16 @@ function setblinkFont()
   setTimeout("blinkFont()",800)
 }
 </script>
+<style> 
+body {
+	-webkit-user-select: none; /* Safari 3.1+ */
+	-moz-user-select: none; /* Firefox 2+ */
+	-ms-user-select: none; /* IE 10+ */
+	user-select: none; /* Standard syntax */
+	cursor: none; /* invisible cursor */
+}
+</style>
+
 </head>
 <body id="home">
 <b>
