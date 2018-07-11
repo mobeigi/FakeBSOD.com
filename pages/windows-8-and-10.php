@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" id="win8">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>FakeBSOD.com - Windows 8 Blue Screen of Death</title>
@@ -11,11 +11,11 @@
 <?php $path = $_SERVER['DOCUMENT_ROOT'];
 	include_once($path . '/inserts.php'); ?>
 </head>
-<body id="win8">
+<body>
 <div id="sadface"></div>
 <p id="win8topblock">
 Your PC ran into a problem that it couldn't handle,
-and now it needs to restart We're just collecting some error info, and then we'll restart for you.</p>
+and now it needs to restart. We're just collecting some error info, and then we'll restart for you.</p>
 <p id="win8errorblock">If you'd like to know more, you can search online later for this error: DPC_WATCHDOG_VIOLATION</p>
 </body>
 </html>
