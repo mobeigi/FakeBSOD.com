@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" id="home">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>FakeBSOD.com - Prank your Friends, Family and Coworkers!</title>
@@ -21,18 +21,8 @@ function setblinkFont()
   setTimeout("blinkFont()",800)
 }
 </script>
-<style> 
-body {
-	-webkit-user-select: none; /* Safari 3.1+ */
-	-moz-user-select: none; /* Firefox 2+ */
-	-ms-user-select: none; /* IE 10+ */
-	user-select: none; /* Standard syntax */
-	cursor: none; /* invisible cursor */
-}
-</style>
-
 </head>
-<body id="home">
+<body>
 <b>
 <h1>Welcome to FakeBSOD.com</h1>
 <span class="neg">About</span>
