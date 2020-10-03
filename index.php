@@ -27,7 +27,7 @@ function setblinkFont()
 <h1>Welcome to FakeBSOD.com</h1>
 <span class="neg">About</span>
 <p class="center">
-Prank your friends, family and coworkers into beleiving their workstation has crashed!
+Prank your friends, family and co-workers into believing their workstation has crashed!
 <br/>Simply follow the instructions below!<br />
 <center>
 <style type="text/css">
