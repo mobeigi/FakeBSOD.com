@@ -1,9 +1,0 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} ^www\.fakebsod\.com [NC]
-RewriteRule ^(.*)$ http://fakebsod.com/$1 [L,R=301]
-
-# Pages
-RewriteRule ^generic$ /pages/generic.php [L]
-RewriteRule ^windows-8-and-10$ /pages/windows-8-and-10.php [L]
-
-ErrorDocument 404 /404.php
