@@ -5,7 +5,7 @@
     <title>FakeBSOD.com - Generic Blue Screen of Death</title>
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<link rel="canonical" href="http://fakebsod.com/generic/" />
+	<link rel="canonical" href="https://fakebsod.com/generic/" />
     <meta name="description" content="A generic fake Blue Screen of Death page. See if your friends will fall for this prank!" />
     <meta name="keywords" content="bsod, fakebsod, blue screen of death, simulator, online, prank, trick" />
     <?php

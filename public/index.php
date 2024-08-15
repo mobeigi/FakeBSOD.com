@@ -7,7 +7,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"> 
 <meta name="description" content="Prank your friends, family and co-workers with this Fake Blue Screen of Death (BSOD) simulator and check out their reactions!" />
 <meta name="keywords" content="bsod, fakebsod, blue screen of death, simulator, online, prank, trick" />
-<link rel="canonical" href="http://fakebsod.com/" />
+<link rel="canonical" href="https://fakebsod.com/" />
 <?php include 'inserts.php'; ?>
 <script type="text/javascript">
 function blinkFont()

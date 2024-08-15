@@ -5,7 +5,7 @@
     <title>FakeBSOD.com - Windows 8 Blue Screen of Death</title>
     <link rel="stylesheet" type="text/css" media="all" href="/style.css">
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-	<link rel="canonical" href="http://fakebsod.com/windows-8-and-10/" />
+	<link rel="canonical" href="https://fakebsod.com/windows-8-and-10/" />
     <meta name="description" content="The Windows 8 fake Blue Screen of Death page. See if your friends will fall for this prank!" />
     <meta name="keywords" content="bsod, fakebsod, windows 8, blue screen of death, simulator, online, prank, trick" />
     <script type="text/javascript">
