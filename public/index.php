@@ -81,10 +81,10 @@ Prank your friends, family and co-workers into believing their workstation has c
     if (in_array($CurrOS, array('Windows 10', 'Windows 8'))) {
       # Show windows 8/10 version
       $page_name = "Windows 8/10";
-      echo "/windows-8-and-10";
+      echo "/windows-8-and-10/";
     } else {
       $page_name = "Generic";
-      echo "/generic";
+      echo "/generic/";
     }
     
     
@@ -94,7 +94,7 @@ Prank your friends, family and co-workers into believing their workstation has c
 </center>
 <center style="font-size:10px;">Autodetected OS: <?php echo $OS; ?>, using: <strong><?php echo $page_name; ?></strong> page</center>
 <br />
-<center><a href="/generic">Generic BSOD (XP, Win7)</a> | <a href="/windows-8-and-10">Windows 8/10 BSOD</a></center>
+<center><a href="/generic/">Generic BSOD (XP, Win7)</a> | <a href="/windows-8-and-10/">Windows 8/10 BSOD</a></center>
 <br />
 <br />
 <?php include 'footer.php'; ?>
